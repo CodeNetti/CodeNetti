@@ -3,11 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A45EE5&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Raphael+Simonetti;I'm+19+years+old;I+from+Brasil,+SP;I+study+systems+development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/CodeNetti">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeNetti&theme=ocean_dark&show_icons=true)
-    
- 
+  <a href="https://github.com/CodeNetti"> 
 </div>
   <BR>
 
