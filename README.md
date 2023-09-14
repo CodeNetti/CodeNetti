@@ -34,9 +34,15 @@
 
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+
+### My GitHub Stats:
 <div align="center">
-<a href="https://github.com/CodeNetti"><img width ="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenetti&langs_count=10&title_color=A45EE5&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/CodeNetti"><img width ="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenetti&stroke=ffffff&background=A45EE5&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Stats"/></a>
+
 </div>
+
+##
+
 
  
   
