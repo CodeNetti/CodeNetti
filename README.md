@@ -35,9 +35,6 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
-### My GitHub Stats:
-<div align="center">
-<a href="https://github.com/CodeNetti"><img width ="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenetti&stroke=ffffff&background=1c1917&ring=A45EE5&fire=A45EE5&currStreakNum=ffffff&currStreakLabel=A45EE5&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Stats"/></a>
 
 </div>
 
