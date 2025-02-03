@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A45EE5&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A45EE5&size=35&center=true&vCenter=true&width=1000&lines=Hello+Everyone+</>;+My+name+is+Raphael+Simonetti;I'm+19+years+old;I+from+Brazil,+São+Paulo;I+study+systems+development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A45EE5&size=35&center=true&vCenter=true&width=1000&lines=Hello+Everyone+</>;+My+name+is+Raphael+Simonetti;I'm+21+years+old;I+from+Brazil,+São+Paulo;I+study+systems+development+at+ETEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/CodeNetti"> 
