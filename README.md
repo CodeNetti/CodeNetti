@@ -1,6 +1,6 @@
 # Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B1aHVobXhiMmpuaHJhdDlrdmdqandhamswcGxzcHZobWJ0NmI4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwDiev1AJLXsQZJKoC/giphy.gif" alt="Miata" />
+<img align="right" width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm45OXg2MnRtdG1kYWV0eXRqZnZ6Z2t1MzZ0Nmp3MTljYm56NG1pciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pmBQnqb9QpXkA/giphy.gif" alt="Miata" />
 
 ### Welcome to my page!
 <p>
